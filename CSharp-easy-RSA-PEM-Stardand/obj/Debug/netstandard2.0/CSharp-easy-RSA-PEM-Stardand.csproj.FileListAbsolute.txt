@@ -1,0 +1,27 @@
+D:\chromedownload\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM\CSharp-easy-RSA-PEM-Stardand\bin\Debug\netstandard2.0\CSharp-easy-RSA-PEM-Stardand.deps.json
+D:\chromedownload\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM\CSharp-easy-RSA-PEM-Stardand\bin\Debug\netstandard2.0\CSharp-easy-RSA-PEM-Stardand.dll
+D:\chromedownload\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM\CSharp-easy-RSA-PEM-Stardand\bin\Debug\netstandard2.0\CSharp-easy-RSA-PEM-Stardand.pdb
+D:\chromedownload\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM\CSharp-easy-RSA-PEM-Stardand\obj\Debug\netstandard2.0\CSharp-easy-RSA-PEM-Stardand.csprojAssemblyReference.cache
+D:\chromedownload\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM\CSharp-easy-RSA-PEM-Stardand\obj\Debug\netstandard2.0\CSharp-easy-RSA-PEM-Stardand.csproj.CoreCompileInputs.cache
+D:\chromedownload\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM\CSharp-easy-RSA-PEM-Stardand\obj\Debug\netstandard2.0\CSharp-easy-RSA-PEM-Stardand.AssemblyInfoInputs.cache
+D:\chromedownload\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM\CSharp-easy-RSA-PEM-Stardand\obj\Debug\netstandard2.0\CSharp-easy-RSA-PEM-Stardand.AssemblyInfo.cs
+D:\chromedownload\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM\CSharp-easy-RSA-PEM-Stardand\obj\Debug\netstandard2.0\CSharp-easy-RSA-PEM-Stardand.dll
+D:\chromedownload\CSharp-easy-RSA-PEM-master\CSharp-easy-RSA-PEM\CSharp-easy-RSA-PEM-Stardand\obj\Debug\netstandard2.0\CSharp-easy-RSA-PEM-Stardand.pdb
+D:\source\repos\TPlusTest\CSharp-easy-RSA-PEM-Stardand\bin\Debug\netstandard2.0\CSharp-easy-RSA-PEM-Stardand.deps.json
+D:\source\repos\TPlusTest\CSharp-easy-RSA-PEM-Stardand\bin\Debug\netstandard2.0\CSharp-easy-RSA-PEM-Stardand.dll
+D:\source\repos\TPlusTest\CSharp-easy-RSA-PEM-Stardand\bin\Debug\netstandard2.0\CSharp-easy-RSA-PEM-Stardand.pdb
+D:\source\repos\TPlusTest\CSharp-easy-RSA-PEM-Stardand\obj\Debug\netstandard2.0\CSharp-easy-RSA-PEM-Stardand.csprojAssemblyReference.cache
+D:\source\repos\TPlusTest\CSharp-easy-RSA-PEM-Stardand\obj\Debug\netstandard2.0\CSharp-easy-RSA-PEM-Stardand.csproj.CoreCompileInputs.cache
+D:\source\repos\TPlusTest\CSharp-easy-RSA-PEM-Stardand\obj\Debug\netstandard2.0\CSharp-easy-RSA-PEM-Stardand.AssemblyInfoInputs.cache
+D:\source\repos\TPlusTest\CSharp-easy-RSA-PEM-Stardand\obj\Debug\netstandard2.0\CSharp-easy-RSA-PEM-Stardand.AssemblyInfo.cs
+D:\source\repos\TPlusTest\CSharp-easy-RSA-PEM-Stardand\obj\Debug\netstandard2.0\CSharp-easy-RSA-PEM-Stardand.dll
+D:\source\repos\TPlusTest\CSharp-easy-RSA-PEM-Stardand\obj\Debug\netstandard2.0\CSharp-easy-RSA-PEM-Stardand.pdb
+D:\微信接收的文件\WeChat Files\kenon-8023\FileStorage\File\2019-08\TPlusTest(1)\CSharp-easy-RSA-PEM-Stardand\bin\Debug\netstandard2.0\CSharp-easy-RSA-PEM-Stardand.deps.json
+D:\微信接收的文件\WeChat Files\kenon-8023\FileStorage\File\2019-08\TPlusTest(1)\CSharp-easy-RSA-PEM-Stardand\bin\Debug\netstandard2.0\CSharp-easy-RSA-PEM-Stardand.dll
+D:\微信接收的文件\WeChat Files\kenon-8023\FileStorage\File\2019-08\TPlusTest(1)\CSharp-easy-RSA-PEM-Stardand\bin\Debug\netstandard2.0\CSharp-easy-RSA-PEM-Stardand.pdb
+D:\微信接收的文件\WeChat Files\kenon-8023\FileStorage\File\2019-08\TPlusTest(1)\CSharp-easy-RSA-PEM-Stardand\obj\Debug\netstandard2.0\CSharp-easy-RSA-PEM-Stardand.csproj.CoreCompileInputs.cache
+D:\微信接收的文件\WeChat Files\kenon-8023\FileStorage\File\2019-08\TPlusTest(1)\CSharp-easy-RSA-PEM-Stardand\obj\Debug\netstandard2.0\CSharp-easy-RSA-PEM-Stardand.AssemblyInfoInputs.cache
+D:\微信接收的文件\WeChat Files\kenon-8023\FileStorage\File\2019-08\TPlusTest(1)\CSharp-easy-RSA-PEM-Stardand\obj\Debug\netstandard2.0\CSharp-easy-RSA-PEM-Stardand.AssemblyInfo.cs
+D:\微信接收的文件\WeChat Files\kenon-8023\FileStorage\File\2019-08\TPlusTest(1)\CSharp-easy-RSA-PEM-Stardand\obj\Debug\netstandard2.0\CSharp-easy-RSA-PEM-Stardand.dll
+D:\微信接收的文件\WeChat Files\kenon-8023\FileStorage\File\2019-08\TPlusTest(1)\CSharp-easy-RSA-PEM-Stardand\obj\Debug\netstandard2.0\CSharp-easy-RSA-PEM-Stardand.pdb
+D:\微信接收的文件\WeChat Files\kenon-8023\FileStorage\File\2019-08\TPlusTest(1)\CSharp-easy-RSA-PEM-Stardand\obj\Debug\netstandard2.0\CSharp-easy-RSA-PEM-Stardand.csprojAssemblyReference.cache

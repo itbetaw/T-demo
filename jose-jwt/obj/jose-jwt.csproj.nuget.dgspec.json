@@ -1,0 +1,104 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\微信接收的文件\\WeChat Files\\kenon-8023\\FileStorage\\File\\2019-08\\TPlusTest(1)\\jose-jwt\\jose-jwt.csproj": {}
+  },
+  "projects": {
+    "D:\\微信接收的文件\\WeChat Files\\kenon-8023\\FileStorage\\File\\2019-08\\TPlusTest(1)\\jose-jwt\\jose-jwt.csproj": {
+      "version": "2.4.0",
+      "restore": {
+        "projectUniqueName": "D:\\微信接收的文件\\WeChat Files\\kenon-8023\\FileStorage\\File\\2019-08\\TPlusTest(1)\\jose-jwt\\jose-jwt.csproj",
+        "projectName": "jose-jwt",
+        "projectPath": "D:\\微信接收的文件\\WeChat Files\\kenon-8023\\FileStorage\\File\\2019-08\\TPlusTest(1)\\jose-jwt\\jose-jwt.csproj",
+        "packagesPath": "C:\\Users\\lx\\.nuget\\packages\\",
+        "outputPath": "D:\\微信接收的文件\\WeChat Files\\kenon-8023\\FileStorage\\File\\2019-08\\TPlusTest(1)\\jose-jwt\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lx\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net40",
+          "net461",
+          "netstandard1.4"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net40": {
+            "projectReferences": {}
+          },
+          "net461": {
+            "projectReferences": {}
+          },
+          "netstandard1.4": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net40": {},
+        "net461": {
+          "dependencies": {
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.6.10, )"
+            }
+          }
+        },
+        "netstandard1.4": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[1.6.1, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "System.IO.Compression": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Runtime.InteropServices": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Runtime.Serialization.Primitives": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Security.Cryptography.Algorithms": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Security.Cryptography.Cng": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Security.Cryptography.Csp": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Security.Cryptography.X509Certificates": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

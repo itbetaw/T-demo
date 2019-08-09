@@ -1,0 +1,227 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\微信接收的文件\\WeChat Files\\kenon-8023\\FileStorage\\File\\2019-08\\TPlusTest(1)\\TPlusTest\\TPlusTest.csproj": {}
+  },
+  "projects": {
+    "D:\\微信接收的文件\\WeChat Files\\kenon-8023\\FileStorage\\File\\2019-08\\TPlusTest(1)\\CSharp-easy-RSA-PEM-Stardand\\CSharp-easy-RSA-PEM-Stardand.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\微信接收的文件\\WeChat Files\\kenon-8023\\FileStorage\\File\\2019-08\\TPlusTest(1)\\CSharp-easy-RSA-PEM-Stardand\\CSharp-easy-RSA-PEM-Stardand.csproj",
+        "projectName": "CSharp-easy-RSA-PEM-Stardand",
+        "projectPath": "D:\\微信接收的文件\\WeChat Files\\kenon-8023\\FileStorage\\File\\2019-08\\TPlusTest(1)\\CSharp-easy-RSA-PEM-Stardand\\CSharp-easy-RSA-PEM-Stardand.csproj",
+        "packagesPath": "C:\\Users\\lx\\.nuget\\packages\\",
+        "outputPath": "D:\\微信接收的文件\\WeChat Files\\kenon-8023\\FileStorage\\File\\2019-08\\TPlusTest(1)\\CSharp-easy-RSA-PEM-Stardand\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lx\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\微信接收的文件\\WeChat Files\\kenon-8023\\FileStorage\\File\\2019-08\\TPlusTest(1)\\jose-jwt\\jose-jwt.csproj": {
+      "version": "2.4.0",
+      "restore": {
+        "projectUniqueName": "D:\\微信接收的文件\\WeChat Files\\kenon-8023\\FileStorage\\File\\2019-08\\TPlusTest(1)\\jose-jwt\\jose-jwt.csproj",
+        "projectName": "jose-jwt",
+        "projectPath": "D:\\微信接收的文件\\WeChat Files\\kenon-8023\\FileStorage\\File\\2019-08\\TPlusTest(1)\\jose-jwt\\jose-jwt.csproj",
+        "packagesPath": "C:\\Users\\lx\\.nuget\\packages\\",
+        "outputPath": "D:\\微信接收的文件\\WeChat Files\\kenon-8023\\FileStorage\\File\\2019-08\\TPlusTest(1)\\jose-jwt\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lx\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net40",
+          "net461",
+          "netstandard1.4"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net40": {
+            "projectReferences": {}
+          },
+          "net461": {
+            "projectReferences": {}
+          },
+          "netstandard1.4": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net40": {},
+        "net461": {
+          "dependencies": {
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.6.10, )"
+            }
+          }
+        },
+        "netstandard1.4": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[1.6.1, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "System.IO.Compression": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Runtime.InteropServices": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Runtime.Serialization.Primitives": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Security.Cryptography.Algorithms": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Security.Cryptography.Cng": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Security.Cryptography.Csp": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Security.Cryptography.X509Certificates": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          }
+        }
+      }
+    },
+    "D:\\微信接收的文件\\WeChat Files\\kenon-8023\\FileStorage\\File\\2019-08\\TPlusTest(1)\\TPlusTest\\TPlusTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\微信接收的文件\\WeChat Files\\kenon-8023\\FileStorage\\File\\2019-08\\TPlusTest(1)\\TPlusTest\\TPlusTest.csproj",
+        "projectName": "TPlusTest",
+        "projectPath": "D:\\微信接收的文件\\WeChat Files\\kenon-8023\\FileStorage\\File\\2019-08\\TPlusTest(1)\\TPlusTest\\TPlusTest.csproj",
+        "packagesPath": "C:\\Users\\lx\\.nuget\\packages\\",
+        "outputPath": "D:\\微信接收的文件\\WeChat Files\\kenon-8023\\FileStorage\\File\\2019-08\\TPlusTest(1)\\TPlusTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lx\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\微信接收的文件\\WeChat Files\\kenon-8023\\FileStorage\\File\\2019-08\\TPlusTest(1)\\CSharp-easy-RSA-PEM-Stardand\\CSharp-easy-RSA-PEM-Stardand.csproj": {
+                "projectPath": "D:\\微信接收的文件\\WeChat Files\\kenon-8023\\FileStorage\\File\\2019-08\\TPlusTest(1)\\CSharp-easy-RSA-PEM-Stardand\\CSharp-easy-RSA-PEM-Stardand.csproj"
+              },
+              "D:\\微信接收的文件\\WeChat Files\\kenon-8023\\FileStorage\\File\\2019-08\\TPlusTest(1)\\jose-jwt\\jose-jwt.csproj": {
+                "projectPath": "D:\\微信接收的文件\\WeChat Files\\kenon-8023\\FileStorage\\File\\2019-08\\TPlusTest(1)\\jose-jwt\\jose-jwt.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.6.10, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[5.5.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

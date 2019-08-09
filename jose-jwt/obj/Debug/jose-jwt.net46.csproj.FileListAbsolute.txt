@@ -1,0 +1,6 @@
+D:\微信接收的文件\WeChat Files\kenon-8023\FileStorage\File\2019-08\TPlusTest(1)\jose-jwt\bin\Debug\jose-jwt-net46.dll
+D:\微信接收的文件\WeChat Files\kenon-8023\FileStorage\File\2019-08\TPlusTest(1)\jose-jwt\bin\Debug\jose-jwt-net46.pdb
+D:\微信接收的文件\WeChat Files\kenon-8023\FileStorage\File\2019-08\TPlusTest(1)\jose-jwt\obj\Debug\jose-jwt.net46.csprojAssemblyReference.cache
+D:\微信接收的文件\WeChat Files\kenon-8023\FileStorage\File\2019-08\TPlusTest(1)\jose-jwt\obj\Debug\jose-jwt.net46.csproj.CoreCompileInputs.cache
+D:\微信接收的文件\WeChat Files\kenon-8023\FileStorage\File\2019-08\TPlusTest(1)\jose-jwt\obj\Debug\jose-jwt-net46.dll
+D:\微信接收的文件\WeChat Files\kenon-8023\FileStorage\File\2019-08\TPlusTest(1)\jose-jwt\obj\Debug\jose-jwt-net46.pdb

@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\微信接收的文件\\WeChat Files\\kenon-8023\\FileStorage\\File\\2019-08\\TPlusTest(1)\\CSharp-easy-RSA-PEM-Stardand\\CSharp-easy-RSA-PEM-Stardand.csproj": {}
+  },
+  "projects": {
+    "D:\\微信接收的文件\\WeChat Files\\kenon-8023\\FileStorage\\File\\2019-08\\TPlusTest(1)\\CSharp-easy-RSA-PEM-Stardand\\CSharp-easy-RSA-PEM-Stardand.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\微信接收的文件\\WeChat Files\\kenon-8023\\FileStorage\\File\\2019-08\\TPlusTest(1)\\CSharp-easy-RSA-PEM-Stardand\\CSharp-easy-RSA-PEM-Stardand.csproj",
+        "projectName": "CSharp-easy-RSA-PEM-Stardand",
+        "projectPath": "D:\\微信接收的文件\\WeChat Files\\kenon-8023\\FileStorage\\File\\2019-08\\TPlusTest(1)\\CSharp-easy-RSA-PEM-Stardand\\CSharp-easy-RSA-PEM-Stardand.csproj",
+        "packagesPath": "C:\\Users\\lx\\.nuget\\packages\\",
+        "outputPath": "D:\\微信接收的文件\\WeChat Files\\kenon-8023\\FileStorage\\File\\2019-08\\TPlusTest(1)\\CSharp-easy-RSA-PEM-Stardand\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lx\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>CSharp_easy_RSA_PEM_Stardand</RootNamespace>
+  </PropertyGroup>
+
+</Project>

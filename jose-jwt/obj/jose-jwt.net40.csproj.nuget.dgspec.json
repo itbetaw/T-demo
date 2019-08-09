@@ -1,0 +1,36 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\微信接收的文件\\WeChat Files\\kenon-8023\\FileStorage\\File\\2019-08\\TPlusTest(1)\\jose-jwt\\jose-jwt.net40.csproj": {}
+  },
+  "projects": {
+    "D:\\微信接收的文件\\WeChat Files\\kenon-8023\\FileStorage\\File\\2019-08\\TPlusTest(1)\\jose-jwt\\jose-jwt.net40.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\微信接收的文件\\WeChat Files\\kenon-8023\\FileStorage\\File\\2019-08\\TPlusTest(1)\\jose-jwt\\jose-jwt.net40.csproj",
+        "projectName": "jose-jwt.net40",
+        "projectPath": "D:\\微信接收的文件\\WeChat Files\\kenon-8023\\FileStorage\\File\\2019-08\\TPlusTest(1)\\jose-jwt\\jose-jwt.net40.csproj",
+        "projectJsonPath": "D:\\微信接收的文件\\WeChat Files\\kenon-8023\\FileStorage\\File\\2019-08\\TPlusTest(1)\\jose-jwt\\jose-jwt.net40.project.json",
+        "packagesPath": "C:\\Users\\lx\\.nuget\\packages\\",
+        "outputPath": "D:\\微信接收的文件\\WeChat Files\\kenon-8023\\FileStorage\\File\\2019-08\\TPlusTest(1)\\jose-jwt\\obj\\",
+        "projectStyle": "ProjectJson",
+        "configFilePaths": [
+          "C:\\Users\\lx\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        }
+      },
+      "frameworks": {
+        "net40": {}
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

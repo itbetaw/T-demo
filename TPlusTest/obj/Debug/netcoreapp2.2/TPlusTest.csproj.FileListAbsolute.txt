@@ -1,0 +1,32 @@
+D:\source\repos\TPlusTest\TPlusTest\bin\Debug\netcoreapp2.2\TPlusTest.deps.json
+D:\source\repos\TPlusTest\TPlusTest\bin\Debug\netcoreapp2.2\TPlusTest.runtimeconfig.json
+D:\source\repos\TPlusTest\TPlusTest\bin\Debug\netcoreapp2.2\TPlusTest.runtimeconfig.dev.json
+D:\source\repos\TPlusTest\TPlusTest\bin\Debug\netcoreapp2.2\TPlusTest.dll
+D:\source\repos\TPlusTest\TPlusTest\obj\Debug\netcoreapp2.2\TPlusTest.csprojAssemblyReference.cache
+D:\source\repos\TPlusTest\TPlusTest\obj\Debug\netcoreapp2.2\TPlusTest.csproj.CoreCompileInputs.cache
+D:\source\repos\TPlusTest\TPlusTest\obj\Debug\netcoreapp2.2\TPlusTest.AssemblyInfoInputs.cache
+D:\source\repos\TPlusTest\TPlusTest\obj\Debug\netcoreapp2.2\TPlusTest.AssemblyInfo.cs
+D:\source\repos\TPlusTest\TPlusTest\bin\Debug\netcoreapp2.2\TPlusTest.pdb
+D:\source\repos\TPlusTest\TPlusTest\obj\Debug\netcoreapp2.2\TPlusTest.dll
+D:\source\repos\TPlusTest\TPlusTest\obj\Debug\netcoreapp2.2\TPlusTest.pdb
+D:\source\repos\TPlusTest\TPlusTest\bin\Debug\netcoreapp2.2\CSharp-easy-RSA-PEM-Stardand.dll
+D:\source\repos\TPlusTest\TPlusTest\bin\Debug\netcoreapp2.2\CSharp-easy-RSA-PEM-Stardand.pdb
+D:\source\repos\TPlusTest\TPlusTest\obj\Debug\netcoreapp2.2\TPlusTest.csproj.CopyComplete
+D:\source\repos\TPlusTest\TPlusTest\bin\Debug\netcoreapp2.2\jose-jwt.dll
+D:\source\repos\TPlusTest\TPlusTest\bin\Debug\netcoreapp2.2\jose-jwt.pdb
+D:\微信接收的文件\WeChat Files\kenon-8023\FileStorage\File\2019-08\TPlusTest(1)\TPlusTest\bin\Debug\netcoreapp2.2\TPlusTest.deps.json
+D:\微信接收的文件\WeChat Files\kenon-8023\FileStorage\File\2019-08\TPlusTest(1)\TPlusTest\bin\Debug\netcoreapp2.2\TPlusTest.runtimeconfig.json
+D:\微信接收的文件\WeChat Files\kenon-8023\FileStorage\File\2019-08\TPlusTest(1)\TPlusTest\bin\Debug\netcoreapp2.2\TPlusTest.runtimeconfig.dev.json
+D:\微信接收的文件\WeChat Files\kenon-8023\FileStorage\File\2019-08\TPlusTest(1)\TPlusTest\bin\Debug\netcoreapp2.2\TPlusTest.dll
+D:\微信接收的文件\WeChat Files\kenon-8023\FileStorage\File\2019-08\TPlusTest(1)\TPlusTest\bin\Debug\netcoreapp2.2\TPlusTest.pdb
+D:\微信接收的文件\WeChat Files\kenon-8023\FileStorage\File\2019-08\TPlusTest(1)\TPlusTest\bin\Debug\netcoreapp2.2\CSharp-easy-RSA-PEM-Stardand.dll
+D:\微信接收的文件\WeChat Files\kenon-8023\FileStorage\File\2019-08\TPlusTest(1)\TPlusTest\bin\Debug\netcoreapp2.2\jose-jwt.dll
+D:\微信接收的文件\WeChat Files\kenon-8023\FileStorage\File\2019-08\TPlusTest(1)\TPlusTest\bin\Debug\netcoreapp2.2\CSharp-easy-RSA-PEM-Stardand.pdb
+D:\微信接收的文件\WeChat Files\kenon-8023\FileStorage\File\2019-08\TPlusTest(1)\TPlusTest\bin\Debug\netcoreapp2.2\jose-jwt.pdb
+D:\微信接收的文件\WeChat Files\kenon-8023\FileStorage\File\2019-08\TPlusTest(1)\TPlusTest\obj\Debug\netcoreapp2.2\TPlusTest.csprojAssemblyReference.cache
+D:\微信接收的文件\WeChat Files\kenon-8023\FileStorage\File\2019-08\TPlusTest(1)\TPlusTest\obj\Debug\netcoreapp2.2\TPlusTest.csproj.CoreCompileInputs.cache
+D:\微信接收的文件\WeChat Files\kenon-8023\FileStorage\File\2019-08\TPlusTest(1)\TPlusTest\obj\Debug\netcoreapp2.2\TPlusTest.AssemblyInfoInputs.cache
+D:\微信接收的文件\WeChat Files\kenon-8023\FileStorage\File\2019-08\TPlusTest(1)\TPlusTest\obj\Debug\netcoreapp2.2\TPlusTest.AssemblyInfo.cs
+D:\微信接收的文件\WeChat Files\kenon-8023\FileStorage\File\2019-08\TPlusTest(1)\TPlusTest\obj\Debug\netcoreapp2.2\TPlusTest.csproj.CopyComplete
+D:\微信接收的文件\WeChat Files\kenon-8023\FileStorage\File\2019-08\TPlusTest(1)\TPlusTest\obj\Debug\netcoreapp2.2\TPlusTest.dll
+D:\微信接收的文件\WeChat Files\kenon-8023\FileStorage\File\2019-08\TPlusTest(1)\TPlusTest\obj\Debug\netcoreapp2.2\TPlusTest.pdb
